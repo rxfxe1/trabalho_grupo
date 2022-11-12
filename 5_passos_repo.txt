@@ -1,9 +1,0 @@
-Passo 1: Criar repositório público  para o grupo
-
-Passo 2: Criar equipa dentro do repositório
-
-Passo 3: Criar regras de controlo para Pull Request
-
-Passo 4: Definir 10 tarefas a executar sobre código
-
-Passo 5: Executar e contribuir
